@@ -16,6 +16,7 @@
 
 ## 제목 3
 
+<img src="ala4.jpeg">
 
 ## Streamlit 배포 실습
 * Streamlit 으로 대시보드 만들기
