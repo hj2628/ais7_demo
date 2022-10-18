@@ -16,7 +16,8 @@
 
 ## 제목 3
 
-<img src="https://imgur.com/R1HjUfx">
+<img src="https://i.imgur.com/R1HjUfx.jpg">
+
 
 ## Streamlit 배포 실습
 * Streamlit 으로 대시보드 만들기
